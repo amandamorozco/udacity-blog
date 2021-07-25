@@ -1,0 +1,24 @@
+/* The following is the Author Info card */
+
+.card {
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  padding: 25px;
+  background: rgb(255, 255, 255);
+  box-shadow: 0 13px 15px rgba(0, 0, 0, 0.3);
+}
+
+.author-info {
+  display: flex;
+  flex-direction: row;
+}
+
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  padding: 25px;
+}

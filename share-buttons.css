@@ -1,0 +1,46 @@
+/* Social share buttons */
+
+/* container */
+
+#share {
+  display: inline;
+  width: 100%;
+  text-align: left;
+}
+
+/* buttons */
+
+#share a {
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  object-align: left;
+  text-align: center;
+  margin: 8px;
+  font-size: 24px;
+  color: #fff;
+  opacity: 0.75;
+  transition: opacity 0.15s linear;
+}
+
+/* icons */
+
+#share i {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* colors */
+
+.facebook {
+  background: #3b5998;
+}
+
+.twitter {
+  background: #55acee;
+}
+
+.linkedin {
+  background: #0077b5;
+}
