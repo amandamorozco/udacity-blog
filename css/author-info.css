@@ -1,9 +1,7 @@
 /* The following is the Author Info card */
 
-.card {
+.card-author {
   border-radius: 10px;
-  margin-left: 20px;
-  margin-right: 20px;
   margin-top: 30px;
   margin-bottom: 20px;
   padding: 25px;

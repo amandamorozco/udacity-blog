@@ -92,6 +92,10 @@ a {
   font-size: 1.4em;
 }
 
+.image-caption {
+  text-align: center;
+}
+
 /* Blog post card 
 
 Ref: https://codepen.io/yessglory17/pen/RwRJLQW
